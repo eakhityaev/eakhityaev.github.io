@@ -124,16 +124,6 @@
       href=""
     /></url>
   <url>
-    <loc>https://eakhityaev.github.io/ru/project/igroup_project/</loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/project/igroup_project/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/project/igroup_project/"
-    /></url>
-  <url>
     <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -152,6 +142,16 @@
       rel="alternate"
       hreflang="ru"
       href="https://eakhityaev.github.io/ru/project/"
+    /></url>
+  <url>
+    <loc>https://eakhityaev.github.io/ru/project/igroup_project/</loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eakhityaev.github.io/project/igroup_project/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eakhityaev.github.io/ru/project/igroup_project/"
     /></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/project/individual_project/</loc><lastmod>2021-12-17T15:34:56+03:00</lastmod><xhtml:link
@@ -182,26 +182,6 @@
       rel="alternate"
       hreflang="ru"
       href="https://eakhityaev.github.io/ru/post/rudn_news/"
-    /></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/slides/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/slides/"
-    /></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/slides/example/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/slides/example/"
     /></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
