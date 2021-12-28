@@ -76,10 +76,6 @@
       href="https://eakhityaev.github.io/publication/"
     /></url>
   <url>
-    <loc>https://eakhityaev.github.io/ru/publication/</loc><lastmod>2021-12-17T18:43:18+03:00</lastmod></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/</loc><lastmod>2021-12-17T18:43:18+03:00</lastmod></url>
-  <url>
     <loc>https://eakhityaev.github.io/publication/ststatistical_analysis_of_automotive_market_in_russia/</loc><lastmod>2021-12-17T18:43:18+03:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ru"
@@ -89,18 +85,6 @@
       hreflang="en"
       href="https://eakhityaev.github.io/publication/ststatistical_analysis_of_automotive_market_in_russia/"
     /></url>
-  <url>
-    <loc></loc><lastmod>2021-12-17T18:43:18+03:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/publication/ststatistical_analysis_of_automotive_market_in_russia/</loc><lastmod>2021-12-17T18:43:18+03:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod></url>
   <url>
@@ -128,48 +112,6 @@
       rel="alternate"
       hreflang="en"
       href="https://eakhityaev.github.io/project/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/project/igroup_project/</loc><lastmod>2021-12-17T15:46:35+03:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
     /></url>
   <url>
     <loc>https://eakhityaev.github.io/project/individual_project/</loc><lastmod>2021-12-17T15:34:56+03:00</lastmod><xhtml:link
@@ -201,6 +143,8 @@
       hreflang="en"
       href="https://eakhityaev.github.io/post/rudn_news/"
     /></url>
+  <url>
+    <loc>https://eakhityaev.github.io/ru/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
@@ -239,6 +183,8 @@
     /></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/post/</loc></url>
+  <url>
+    <loc>https://eakhityaev.github.io/ru/publication/</loc></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/event/</loc></url>
   <url>
