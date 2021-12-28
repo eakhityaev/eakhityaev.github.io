@@ -154,10 +154,6 @@
       href="https://eakhityaev.github.io/project/"
     /></url>
   <url>
-    <loc>https://eakhityaev.github.io/ru/</loc><lastmod>2021-12-17T15:46:35+03:00</lastmod></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/project/igroup_project/</loc><lastmod>2021-12-17T15:46:35+03:00</lastmod></url>
-  <url>
     <loc>https://eakhityaev.github.io/project/individual_project/</loc><lastmod>2021-12-17T15:34:56+03:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ru"
@@ -178,6 +174,8 @@
       href="https://eakhityaev.github.io/post/"
     /></url>
   <url>
+    <loc>https://eakhityaev.github.io/ru/post/</loc><lastmod>2021-12-17T14:44:10+03:00</lastmod></url>
+  <url>
     <loc>https://eakhityaev.github.io/post/rudn_news/</loc><lastmod>2021-12-17T14:44:10+03:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ru"
@@ -188,57 +186,11 @@
       href="https://eakhityaev.github.io/post/rudn_news/"
     /></url>
   <url>
-    <loc>https://eakhityaev.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/slides/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/slides/"
-    /></url>
+    <loc>https://eakhityaev.github.io/ru/</loc><lastmod>2021-12-17T14:44:10+03:00</lastmod></url>
+  <url>
+    <loc>https://eakhityaev.github.io/ru/post/rudn_news/</loc><lastmod>2021-12-17T14:44:10+03:00</lastmod></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://eakhityaev.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/slides/example/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/slides/example/"
-    /></url>
-  <url>
-    <loc>https://eakhityaev.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/publication/example/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/publication/example/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
   <url>
     <loc>https://eakhityaev.github.io/admin/</loc><xhtml:link
       rel="alternate"
@@ -264,7 +216,15 @@
       href="https://eakhityaev.github.io/categories/"
     /></url>
   <url>
-    <loc>https://eakhityaev.github.io/ru/post/</loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/publication/</loc></url>
   <url>

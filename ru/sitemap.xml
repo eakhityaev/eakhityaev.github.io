@@ -184,56 +184,6 @@
       href="https://eakhityaev.github.io/ru/post/rudn_news/"
     /></url>
   <url>
-    <loc>https://eakhityaev.github.io/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/slides/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/slides/"
-    /></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/slides/example/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/slides/example/"
-    /></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eakhityaev.github.io/publication/example/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eakhityaev.github.io/ru/publication/example/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /></url>
-  <url>
     <loc>https://eakhityaev.github.io/ru/admin/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -262,4 +212,14 @@
       rel="alternate"
       hreflang="ru"
       href="https://eakhityaev.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
     /></url></urlset>
