@@ -114,6 +114,50 @@
       href="https://eakhityaev.github.io/project/"
     /></url>
   <url>
+    <loc>https://eakhityaev.github.io/ru/</loc><lastmod>2021-12-17T15:46:35+03:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /></url>
+  <url>
+    <loc>https://eakhityaev.github.io/ru/project/igroup_project/</loc><lastmod>2021-12-17T15:46:35+03:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><lastmod>2021-12-17T15:46:35+03:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /></url>
+  <url>
     <loc>https://eakhityaev.github.io/project/individual_project/</loc><lastmod>2021-12-17T15:34:56+03:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ru"
@@ -123,8 +167,6 @@
       hreflang="en"
       href="https://eakhityaev.github.io/project/individual_project/"
     /></url>
-  <url>
-    <loc>https://eakhityaev.github.io/ru/</loc><lastmod>2021-12-17T15:34:56+03:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2021-12-17T15:34:56+03:00</lastmod><xhtml:link
       rel="alternate"
@@ -208,4 +250,6 @@
       rel="alternate"
       hreflang="en"
       href="https://eakhityaev.github.io/tags/"
-    /></url></urlset>
+    /></url>
+  <url>
+    <loc></loc></url></urlset>
