@@ -74,15 +74,7 @@
       href="https://eakhityaev.github.io/ru/publication/"
     /></url>
   <url>
-    <loc></loc><lastmod>2021-12-17T18:43:18+03:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /></url>
+    <loc></loc><lastmod>2021-12-17T18:43:18+03:00</lastmod></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/publication/ststatistical_analysis_of_automotive_market_in_russia/</loc><lastmod>2021-12-17T18:43:18+03:00</lastmod><xhtml:link
       rel="alternate"
@@ -182,6 +174,26 @@
       rel="alternate"
       hreflang="ru"
       href="https://eakhityaev.github.io/ru/post/rudn_news/"
+    /></url>
+  <url>
+    <loc>https://eakhityaev.github.io/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eakhityaev.github.io/slides/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eakhityaev.github.io/ru/slides/"
+    /></url>
+  <url>
+    <loc>https://eakhityaev.github.io/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eakhityaev.github.io/slides/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eakhityaev.github.io/ru/slides/example/"
     /></url>
   <url>
     <loc>https://eakhityaev.github.io/ru/admin/</loc><xhtml:link
